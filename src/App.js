@@ -7,7 +7,7 @@ import { Nav, Navbar } from "react-bootstrap";
 import { AppNavBar } from "./common/AppNavBar";
 
 function App() {
-  //Updated By SRJ
+  //Updated
   return (
     <Router>
       <AppNavBar />
